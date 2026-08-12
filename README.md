@@ -36,3 +36,9 @@ This project presents a retail business performance dashboard designed to analyz
 - Data Visualization
 - Business Intelligence
 - Dashboard Design
+
+## Author
+
+**Lakshpreet Kaur**
+
+Data Analytics | Business Intelligence | Data Visualization
