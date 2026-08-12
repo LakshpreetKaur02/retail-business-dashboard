@@ -8,6 +8,14 @@ This project presents a retail business performance dashboard designed to analyz
 
 ![Retail Business Performance Dashboard](retail-dashboard.png)
 
+## Business Questions
+
+- Which regions contribute the most to overall profit?
+- Which product sub-categories generate the highest and lowest profit?
+- How does profit vary across customer segments?
+- How does profit change across months and quarters?
+- Which areas of the business present opportunities for improvement?
+
 ## Key Insights
 
 - Sales and profit performance can be analyzed across different regions.
