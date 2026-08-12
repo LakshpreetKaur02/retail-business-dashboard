@@ -28,3 +28,11 @@ This project presents a retail business performance dashboard designed to analyz
 - Customer segment analysis
 - Product category performance
 - Monthly profit trends
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
