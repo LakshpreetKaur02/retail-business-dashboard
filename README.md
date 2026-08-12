@@ -18,10 +18,13 @@ This project presents a retail business performance dashboard designed to analyz
 
 ## Key Insights
 
-- Sales and profit performance can be analyzed across different regions.
-- Customer segments can be compared to understand their contribution to business performance.
-- Product categories can be evaluated based on sales and profitability.
-- Monthly trends help identify changes in business performance over time.
+## Key Insights
+
+- The dashboard reports total sales of **$1,924,337.88** and total profit of **$224,077.61**.
+- The **East region** generated the highest profit at **$85,291.40**, while the **South region** recorded a loss of **$14,424.05**.
+- **Binders and Binder Accessories** is the strongest visible product sub-category by profit at approximately **$59.30K**, followed by **Chairs & Chairmats** at approximately **$48.70K**.
+- Profit shows noticeable monthly variation, with stronger performance in **April, May, and June** compared with the earlier months shown.
+- The dashboard highlights significant differences in profitability across product categories and customer segments, providing opportunities to identify high-performing and underperforming areas.
 
 ## Project Files
 
