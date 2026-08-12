@@ -18,8 +18,6 @@ This project presents a retail business performance dashboard designed to analyz
 
 ## Key Insights
 
-## Key Insights
-
 - The dashboard reports total sales of **$1,924,337.88** and total profit of **$224,077.61**.
 - The **East region** generated the highest profit at **$85,291.40**, while the **South region** recorded a loss of **$14,424.05**.
 - **Binders and Binder Accessories** is the strongest visible product sub-category by profit at approximately **$59.30K**, followed by **Chairs & Chairmats** at approximately **$48.70K**.
@@ -42,12 +40,11 @@ This project presents a retail business performance dashboard designed to analyz
 
 ## Tools & Technologies
 
-- Microsoft Excel
-- Data Analysis
-- Data Visualization
-- Business Intelligence
-- Dashboard Design
-
+- **Microsoft Power BI** — Dashboard development and interactive data visualization
+- **Data Analysis** — Analyzing sales, profit, customers, products, and regional performance
+- **Data Visualization** — KPI cards, charts, tables, and interactive filters
+- **Dashboard Design** — Creating a clear and user-friendly business performance dashboard
+- 
 ## Author
 
 **Lakshpreet Kaur**
