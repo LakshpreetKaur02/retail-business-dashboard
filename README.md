@@ -1,5 +1,5 @@
 # Retail Business Performance Dashboard
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=plastic) ![Project](https://img.shields.io/badge/Project-Retail%20Analytics-0078D4?style=plastic) ![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=plastic)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat&labelColor=555555)](https://powerbi.microsoft.com/) [![Project](https://img.shields.io/badge/Project-Retail%20Analytics-0078D4?style=flat&labelColor=333333)](https://github.com/LakshpreetKaur02/retail-business-dashboard) [![Status](https://img.shields.io/badge/Status-Completed-2EA44F?style=flat&labelColor=333333)](https://github.com/LakshpreetKaur02/retail-business-dashboard)
 
 ## Overview
 
