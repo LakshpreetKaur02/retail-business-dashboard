@@ -44,7 +44,18 @@ This project presents a retail business performance dashboard designed to analyz
 - **Data Analysis** — Analyzing sales, profit, customers, products, and regional performance
 - **Data Visualization** — KPI cards, charts, tables, and interactive filters
 - **Dashboard Design** — Creating a clear and user-friendly business performance dashboard
-- 
+
+  ## Skills Demonstrated
+
+- Business performance analysis
+- Data interpretation
+- Interactive dashboard development
+- Data visualization
+- Trend analysis
+- Regional and customer segment analysis
+- Product performance analysis
+- Dashboard storytelling
+  
 ## Author
 
 **Lakshpreet Kaur**
